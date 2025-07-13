@@ -8,5 +8,5 @@
 ###
 <a href="https://www.youtube.com/watch?v=5ywqxeDWAP8">어드벤쳐 오브 제노사이드 플레이 영상
 ###
-<a href="https://www.youtube.com/watch?v=5ywqxeDWAP8"><img src="https://raw.githubusercontent.com/NickJeongWib/NickJeongWib/refs/heads/main/Images/Adventure_Genocide.png"  width="800"/></a>
+<a href="https://www.youtube.com/watch?v=5ywqxeDWAP8"><img src="https://raw.githubusercontent.com/NickJeongWib/NickJeongWib/refs/heads/main/Images/Adventure_Genocide.png"  width="400"/></a>
 
