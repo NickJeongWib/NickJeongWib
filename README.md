@@ -1,6 +1,6 @@
 <h3>안녕하세요!<br><br>
 게임 클라이언트 개발자를 희망하는 정지원입니다.<br><br>
-![Naver Email](https://img.shields.io/badge/rko6789@naver.com-007C4A?style=flat&logo=naver&logoColor=white)<br>
+<img src="https://img.shields.io/badge/rko6789@naver.com-007C4A?style=flat&logo=naver&logoColor=white" alt="Naver Email"><br>
 📧: jgw990929@naver.com<br>
 </h3><br>
 
