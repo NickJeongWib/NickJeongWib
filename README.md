@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/CPLUSPLUS-00599C?style=flat&logo=c%2B%2B&logoColor=white">
 <img src="https://img.shields.io/badge/CSHARP-239120?style=flat&logo=c-sharp&logoColor=white">
 <br><br>
-사용 엔진
+사용 툴
 
 <h3>📂포트폴리오</h3>
 ###
