@@ -6,8 +6,6 @@
 ###
 <a href="https://www.youtube.com/watch?v=pAdqJfbeLJE&t=225s"><img src="https://raw.githubusercontent.com/NickJeongWib/NickJeongWib/refs/heads/main/Images/Shadow_BG.png"  width="600"/></a>
 
-<br>
-<br>
 ###
 ###
 ###
