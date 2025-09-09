@@ -6,11 +6,22 @@
 </h3><br>
 
 <h3>🖥️Tech Stack</h3>
+
 🔡개발 언어
+<p align="left">
 <img src="https://img.shields.io/badge/CPLUSPLUS-00599C?style=flat&logo=c%2B%2B&logoColor=white">
 <img src="https://img.shields.io/badge/CSHARP-239120?style=flat&logo=c-sharp&logoColor=white">
-<br><br>
+</p>
 ✏️사용 엔진 & 툴
+<p align="left">
+  <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white" width="10%" />
+  <img src="https://img.shields.io/badge/GitHub%20Desktop-181717?style=flat&logo=github&logoColor=white" width="15%" />
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white" width="10%" />
+  <img src="https://img.shields.io/badge/Aseprite-FF5C5C?style=flat&logo=aseprite&logoColor=white" width="9%" />
+  <img src="https://img.shields.io/badge/PlayFab-ED1C24?style=flat&logo=playfab&logoColor=white" width="7%" />
+</p>
+
+
 
 
 <h3>📂포트폴리오</h3>
