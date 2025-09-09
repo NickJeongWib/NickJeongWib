@@ -1,6 +1,8 @@
 <h3>안녕하세요!<br><br>
 게임 클라이언트 개발자를 희망하는 정지원입니다.<br><br>
-메일: rko6789@naver.com</h3><br>
+📧: rko6789@naver.com</h3><br>
+
+# 📂:포트폴리오
 ###
 <a href="https://www.youtube.com/watch?v=pAdqJfbeLJE&t=225s">타워 오브 쉐도우 플레이 영상<br>
 <a href="https://www.youtube.com/watch?v=pAdqJfbeLJE&t=225s"><img src="https://raw.githubusercontent.com/NickJeongWib/NickJeongWib/refs/heads/main/Images/Shadow_BG.png"  width="600"/></a>
