@@ -6,8 +6,9 @@
 </h3><br>
 
 <h3>🖥️Tech Stack</h3>
-<img src="https://img.shields.io/badge/CPLUSPLUS-00599C?style=flat&logo=c%2B%2B&logoColor=white">
-<img src="https://img.shields.io/badge/CSHARP-239120?style=flat&logo=c-sharp&logoColor=white">
+개발 언어
+<img src="https://img.shields.io/badge/CPLUSPLUS-00599C?style=flat&logo=c%2B%2B&logoColor=white"> Low
+<img src="https://img.shields.io/badge/CSHARP-239120?style=flat&logo=c-sharp&logoColor=white"> High
 
 <h3>📂포트폴리오</h3>
 ###
