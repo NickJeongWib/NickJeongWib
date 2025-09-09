@@ -8,6 +8,8 @@
 ###
 ###
 ###
+<br>
+<br>
 <a href="https://www.youtube.com/watch?v=5ywqxeDWAP8">어드벤쳐 오브 제노사이드 플레이 영상
 ###
 <a href="https://github.com/NickJeongWib/School_Survival_Project">어드벤쳐 오브 제노사이드 깃허브 링크
