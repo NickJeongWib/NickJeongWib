@@ -1,5 +1,4 @@
 <h2>안녕하세요!</h2>
-###
 <h2>게임 클라이언트 개발자를 희망하는 정지원입니다.</h2><br>
 ###
 <a href="https://www.youtube.com/watch?v=pAdqJfbeLJE&t=225s">타워 오브 쉐도우 플레이 영상<br>
