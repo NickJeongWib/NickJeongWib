@@ -3,12 +3,11 @@
 <img src="https://img.shields.io/badge/rko6789@naver.com-007C4A?style=flat&logo=naver&logoColor=white" alt="Naver Email"><br>
 <img src="https://img.shields.io/badge/jgw990929@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail Email"><br>
 <a href="https://www.youtube.com/@Ji_One_E"><img src="https://img.shields.io/badge/ji_Circle-D14836?style=flat&logo=Youtube&logoColor=white" alt="Youtube">
-</h3>
+</h3><br>
 
 <h3>🖥️사용 언어</h3>
 
-
-# 📂포트폴리오
+<h3>📂포트폴리오</h3>
 ###
 <a href="https://www.youtube.com/watch?v=pAdqJfbeLJE&t=225s">타워 오브 쉐도우 플레이 영상<br>
 <a href="https://www.youtube.com/watch?v=pAdqJfbeLJE&t=225s"><img src="https://raw.githubusercontent.com/NickJeongWib/NickJeongWib/refs/heads/main/Images/Shadow_BG.png"  width="600"/></a>
