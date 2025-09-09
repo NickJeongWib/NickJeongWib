@@ -6,6 +6,7 @@
 </h3><br>
 
 <h3>🖥️Tech Stack</h3>
+<img src="https://img.shields.io/badge/CSHARP-239120?style=flat&logo=c-sharp&logoColor=white"><br>
 
 <h3>📂포트폴리오</h3>
 ###
