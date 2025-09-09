@@ -5,6 +5,9 @@
 <a href="https://www.youtube.com/@Ji_One_E"><img src="https://img.shields.io/badge/ji_Circle-D14836?style=flat&logo=Youtube&logoColor=white" alt="Youtube"><br>
 </h3><br>
 
+# 🖥️사용 언어
+
+
 # 📂포트폴리오
 ###
 <a href="https://www.youtube.com/watch?v=pAdqJfbeLJE&t=225s">타워 오브 쉐도우 플레이 영상<br>
