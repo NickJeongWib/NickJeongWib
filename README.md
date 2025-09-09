@@ -5,7 +5,7 @@
 <a href="https://www.youtube.com/@Ji_One_E"><img src="https://img.shields.io/badge/ji_Circle-D14836?style=flat&logo=Youtube&logoColor=white" alt="Youtube">
 </h3><br>
 
-<h3>🖥️사용 언어</h3>
+<h3>🖥️Dev tech</h3>
 
 <h3>📂포트폴리오</h3>
 ###
