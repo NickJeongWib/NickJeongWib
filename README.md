@@ -4,14 +4,14 @@
 <img src="https://img.shields.io/badge/jgw990929@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail Email"><br>
 <a href="https://www.youtube.com/@Ji_One_E"><img src="https://img.shields.io/badge/ji_Circle-D14836?style=flat&logo=Youtube&logoColor=white" alt="Youtube">
 </h3><br>
-
+  
 <h3>🖥️Tech Stack</h3>
-
 🔡개발 언어
 <p align="left">
 <img src="https://img.shields.io/badge/CPLUSPLUS-00599C?style=flat&logo=c%2B%2B&logoColor=white">
 <img src="https://img.shields.io/badge/CSHARP-239120?style=flat&logo=c-sharp&logoColor=white">
 </p>
+<br>
 ✏️사용 엔진 & 툴
 <p align="left">
   <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white" width="10%" />
@@ -19,14 +19,17 @@
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white" width="10%" />
   <img src="https://img.shields.io/badge/Aseprite-FF5C5C?style=flat&logo=aseprite&logoColor=white" width="9%" />
   <img src="https://img.shields.io/badge/PlayFab-ED1C24?style=flat&logo=playfab&logoColor=white" width="7%" />
-</p>
+</p><br>
+
+<h3>📂포트폴리오 깃허브 링크</h3>
+<a href="https://github.com/NickJeongWib/SummonMemory">서먼 메모리 깃허브 링크(수집형 턴제 RPG 개인 프로젝트)<br><br>
+<a href="https://github.com/WhiteBless/MjprojectBBB">쉐도우 오브 타워 깃허브 링크(3D 로그라이크 팀 프로젝트)<br><br>
+<a href="https://github.com/NickJeongWib/School_Survival_Project">어드벤쳐 오브 제노사이드 깃허브 링크(뱀서라이크 팀 프로젝트)<br><br>
 
 
+<h3>🖼️포트폴리오 이미지</h3>
 
-
-<h3>📂포트폴리오</h3>
-###
-<a href="https://www.youtube.com/watch?v=pAdqJfbeLJE&t=225s">타워 오브 쉐도우 플레이 영상<br>
+<!--<a href="https://www.youtube.com/watch?v=pAdqJfbeLJE&t=225s">타워 오브 쉐도우 플레이 영상<br>
 <a href="https://www.youtube.com/watch?v=pAdqJfbeLJE&t=225s"><img src="https://raw.githubusercontent.com/NickJeongWib/NickJeongWib/refs/heads/main/Images/Shadow_BG.png"  width="600"/></a>
 ###
 ###
@@ -36,5 +39,5 @@
 
 <a href="https://www.youtube.com/watch?v=5ywqxeDWAP8">어드벤쳐 오브 제노사이드 플레이 영상<br>
 <a href="https://www.youtube.com/watch?v=5ywqxeDWAP8"><img src="https://raw.githubusercontent.com/NickJeongWib/NickJeongWib/refs/heads/main/Images/Adventure_Genocide.png"  width="250"/></a><br>
-<a href="https://github.com/NickJeongWib/School_Survival_Project">어드벤쳐 오브 제노사이드 깃허브 링크
+
 
