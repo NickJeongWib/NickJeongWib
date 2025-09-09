@@ -8,7 +8,8 @@
 ###
 ###
 <br>
-<a href="https://github.com/NickJeongWib/School_Survival_Project">어드벤쳐 오브 제노사이드 깃허브 링크<br>
+
 <a href="https://www.youtube.com/watch?v=5ywqxeDWAP8">어드벤쳐 오브 제노사이드 플레이 영상<br>
-<a href="https://www.youtube.com/watch?v=5ywqxeDWAP8"><img src="https://raw.githubusercontent.com/NickJeongWib/NickJeongWib/refs/heads/main/Images/Adventure_Genocide.png"  width="250"/></a>
+<a href="https://www.youtube.com/watch?v=5ywqxeDWAP8"><img src="https://raw.githubusercontent.com/NickJeongWib/NickJeongWib/refs/heads/main/Images/Adventure_Genocide.png"  width="250"/></a><br>
+<a href="https://github.com/NickJeongWib/School_Survival_Project">어드벤쳐 오브 제노사이드 깃허브 링크
 
