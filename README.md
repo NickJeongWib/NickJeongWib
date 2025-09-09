@@ -8,8 +8,8 @@
 <h3>🖥️Tech Stack</h3>
 🔡개발 언어
 <p align="left">
-<img src="https://img.shields.io/badge/CPLUSPLUS-00599C?style=flat&logo=c%2B%2B&logoColor=white">
 <img src="https://img.shields.io/badge/CSHARP-239120?style=flat&logo=c-sharp&logoColor=white">
+<img src="https://img.shields.io/badge/CPLUSPLUS-00599C?style=flat&logo=c%2B%2B&logoColor=white">
 </p>
 <br>
 ✏️사용 엔진 & 툴
@@ -24,11 +24,23 @@
 <h3>📂포트폴리오 깃허브 링크</h3>
 <a href="https://github.com/NickJeongWib/SummonMemory">서먼 메모리 깃허브 링크(수집형 턴제 RPG 개인 프로젝트)<br><br>
 <a href="https://github.com/WhiteBless/MjprojectBBB">쉐도우 오브 타워 깃허브 링크(3D 로그라이크 팀 프로젝트)<br><br>
-<a href="https://github.com/NickJeongWib/School_Survival_Project">어드벤쳐 오브 제노사이드 깃허브 링크(뱀서라이크 팀 프로젝트)<br><br>
+<a href="https://github.com/NickJeongWib/School_Survival_Project">어드벤쳐 오브 제노사이드 깃허브 링크(뱀서라이크 팀 프로젝트)<br><br><br>
 
 
 <h3>🖼️포트폴리오 이미지</h3>
+⭐서먼 메모리
+<p align="center">
+  <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FbInuh0%2FbtsQe5JUv4K%2FAAAAAAAAAAAAAAAAAAAAAMuana1BgngLJGxEAaZFNjRsm0AgSUyc7HE5a6Ul3h8m%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1759244399%26allow_ip%3D%26allow_referer%3D%26signature%3D9cAUyWU6h67NXqTxy2yzBF9sDTk%253D" width="45%" />
+  <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2Fctmj2P%2FbtsQer019tx%2FAAAAAAAAAAAAAAAAAAAAAGOKry-xl8bZ7JxeYMJ-MHTRWgc_W22pd4INI55aC9U4%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1759244399%26allow_ip%3D%26allow_referer%3D%26signature%3D2YDvCl4%252FkmusQc%252FI1pAiyJjJieE%253D" width="45%" />
+</p><br>
 
+⭐쉐도우 오브 타워
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NickJeongWib/Repo_Image/refs/heads/main/SOT/SotMainImg.png" width="33%" />
+  <img src="https://raw.githubusercontent.com/NickJeongWib/Repo_Image/refs/heads/main/SOT/ReaperImage.png" width="33%" />
+  <img src="https://raw.githubusercontent.com/NickJeongWib/Repo_Image/refs/heads/main/SOT/Stone.png" width="33%" />
+</p><br>
+⭐어드벤쳐 오브 제노사이드
 <!--<a href="https://www.youtube.com/watch?v=pAdqJfbeLJE&t=225s">타워 오브 쉐도우 플레이 영상<br>
 <a href="https://www.youtube.com/watch?v=pAdqJfbeLJE&t=225s"><img src="https://raw.githubusercontent.com/NickJeongWib/NickJeongWib/refs/heads/main/Images/Shadow_BG.png"  width="600"/></a>
 ###
@@ -36,7 +48,6 @@
 ###
 ###
 <br>
-
 <a href="https://www.youtube.com/watch?v=5ywqxeDWAP8">어드벤쳐 오브 제노사이드 플레이 영상<br>
 <a href="https://www.youtube.com/watch?v=5ywqxeDWAP8"><img src="https://raw.githubusercontent.com/NickJeongWib/NickJeongWib/refs/heads/main/Images/Adventure_Genocide.png"  width="250"/></a><br>
 
