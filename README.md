@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white" width="10%" />
   <img src="https://img.shields.io/badge/GitHub%20Desktop-181717?style=flat&logo=github&logoColor=white" width="15%" />
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white" width="10%" />
-  <img src="https://img.shields.io/badge/Aseprite-FF5C5C?style=flat&logo=aseprite&logoColor=white" width="9%" />
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white" width="8%" />
   <img src="https://img.shields.io/badge/PlayFab-ED1C24?style=flat&logo=playfab&logoColor=white" width="7%" />
 </p><br>
 
