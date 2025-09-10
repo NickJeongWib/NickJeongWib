@@ -24,7 +24,7 @@
 <h3>📂포트폴리오 깃허브 링크</h3>
 <a href="https://github.com/NickJeongWib/SummonMemory">서먼 메모리 깃허브 링크(2D 수집형 턴제 RPG 개인 프로젝트)<br><br>
 <a href="https://github.com/NickJeongWib/MjprojectBBB/tree/main">쉐도우 오브 타워 깃허브 링크(3D 로그라이크 팀 프로젝트)<br><br>
-<a href="https://github.com/NickJeongWib/School_Survival_Project">어드벤쳐 오브 제노사이드 깃허브 링크(뱀서라이크 팀 프로젝트)<br><br><br>
+<a href="https://github.com/NickJeongWib/School_Survival_Project">어드벤쳐 오브 제노사이드 깃허브 링크(2D 뱀서라이크 팀 프로젝트)<br><br><br>
 
 
 <h3>🖼️포트폴리오 이미지</h3>
